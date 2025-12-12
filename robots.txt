@@ -3,9 +3,11 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 Disallow: /temp/
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
 Disallow: /*?search=
 Disallow: /*?sort=
-Disallow: /*.pdf$
-Disallow: /*.docx$
-Sitemap: https://bakateq1o.github.io/miniportfolio/sitemap.xml
 Host: https://bakateq1o.github.io
+Sitemap: https://bakateq1o.github.io/miniportfolio/sitemap.xml
+
