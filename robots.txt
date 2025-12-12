@@ -6,8 +6,7 @@ Disallow: /temp/
 Disallow: /css/
 Disallow: /js/
 Disallow: /images/
-Disallow: /*?search=
-Disallow: /*?sort=
+
 Host: https://bakateq1o.github.io
 Sitemap: https://bakateq1o.github.io/miniportfolio/sitemap.xml
 
